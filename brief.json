@@ -1,0 +1,61 @@
+{
+  "customerName": "NeGD",
+  "industry": "Public Sector / Government",
+  "customerContext": "Customer is very new to the GHCP",
+  "conversationInsights": "Customer is very new to the GHCP , all they have been using is the GHCP chat with the ask and the agent mode .\nIn the session cover MCP , custom agents , skill.md , once scenario where we are taking the users from the brd to proper running application",
+  "constraints": "",
+  "complianceTags": [],
+  "tenant": "customer",
+  "audience": "Developers",
+  "skillLevel": "Intermediate",
+  "duration": "1 hour",
+  "technologies": [
+    "Copilot"
+  ],
+  "deliverables": [
+    "lab",
+    "challenge",
+    "onboarding",
+    "gatekeeper"
+  ],
+  "engagementPreset": "workshop",
+  "useWorkIqInsights": false,
+  "emphasis": "Hands-on heavy",
+  "model": "claude-sonnet-4.5",
+  "labOptions": {
+    "components": [
+      "prereqs",
+      "role-assignments",
+      "provisioning",
+      "app-deploy",
+      "config",
+      "gatekeeper-run",
+      "troubleshooting",
+      "cleanup"
+    ],
+    "runtime": "mixed",
+    "iac": "bicep",
+    "labCount": "5",
+    "depth": "exhaustive",
+    "includeTimings": true,
+    "includeCost": true,
+    "includeSecurityReview": true,
+    "includeExpectedOutputs": true
+  },
+  "sessionOptions": {
+    "components": [
+      "talk-track",
+      "slide-outline",
+      "speaker-notes",
+      "demo-script",
+      "qa-prompts"
+    ],
+    "structure": "hands-on",
+    "slideCount": "20",
+    "topics": "",
+    "introDepth": "light-intro",
+    "wrapUp": "",
+    "format": "hybrid",
+    "interactivity": "medium"
+  }
+}
